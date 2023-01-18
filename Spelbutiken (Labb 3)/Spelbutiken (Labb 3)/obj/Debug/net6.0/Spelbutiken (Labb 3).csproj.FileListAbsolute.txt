@@ -1,0 +1,28 @@
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Spelbutiken (Labb 3).exe
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Spelbutiken (Labb 3).deps.json
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Spelbutiken (Labb 3).runtimeconfig.json
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Spelbutiken (Labb 3).dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Spelbutiken (Labb 3).pdb
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\Snappier.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).csproj.AssemblyReference.cache
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).AssemblyInfoInputs.cache
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).AssemblyInfo.cs
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).csproj.CoreCompileInputs.cache
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).csproj.CopyComplete
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\refint\Spelbutiken (Labb 3).dll
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).pdb
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\Spelbutiken (Labb 3).genruntimeconfig.cache
+C:\Users\Ralle\source\repos\Spelbutiken (Labb 3)\Spelbutiken (Labb 3)\obj\Debug\net6.0\ref\Spelbutiken (Labb 3).dll
